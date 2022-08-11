@@ -1,0 +1,18 @@
+[
+  {
+    "id": "14ec646e-a759-43db-976b-0544b6206811",
+    "cardHolderName": "Bhushan Khardekar",
+    "cardNumber": "444455556666777",
+    "expiryMonth": 6,
+    "expiryYear": 2025,
+    "cvc": 143
+  },
+  {
+    "id": "cc6b11b3-3721-41db-8da0-48bc95841d78",
+    "cardHolderName": "Sameer D",
+    "cardNumber": "1111222233334444",
+    "expiryMonth": 9,
+    "expiryYear": 22,
+    "cvc": 123
+  }
+]
